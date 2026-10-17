@@ -1,6 +1,3 @@
-
-<img width="1280" height="720" alt="mf_waypoint_artwork" src="https://github.com/user-attachments/assets/ae1313f8-6e02-46f8-987d-788459534bec" />
-
 # mf_waypoint
 
 [English](#english) · [Español](#español)
